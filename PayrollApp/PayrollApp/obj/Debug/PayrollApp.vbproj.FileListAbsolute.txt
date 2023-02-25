@@ -1,0 +1,11 @@
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe.config
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\bin\Debug\PayrollApp.pdb
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\bin\Debug\PayrollApp.xml
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.vbprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.Form1.resources
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.Resources.resources
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.vbproj.GenerateResource.Cache
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.exe
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.xml
+c:\users\admin\onedrive\documents\visual studio 2015\Projects\PayrollApp\PayrollApp\obj\Debug\PayrollApp.pdb
